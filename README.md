@@ -241,7 +241,6 @@ Introduce special offers during low-traffic periods to increase customer visits.
 Add your dashboard screenshot here.
 
 ```md
-<img width="1623" height="772" alt="image" src="https://github.com/user-attachments/assets/bf9cf92b-94b1-46a3-8ec6-7b881c16f8cb" />
 
 ```
 
