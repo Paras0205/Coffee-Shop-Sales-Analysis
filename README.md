@@ -237,8 +237,9 @@ Introduce special offers during low-traffic periods to increase customer visits.
 ---
 
 ## 📸 Dashboard Screenshot
+
 <p align="center">
-  <img src="Images/image.png" alt="Coffee Shop Sales Dashboard" width="1000">
+  <img src="image.png" alt="Coffee Shop Sales Dashboard" width="1000">
 </p>
 
 
